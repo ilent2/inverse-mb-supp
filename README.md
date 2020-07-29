@@ -1,11 +1,11 @@
 
 inverse-mb-supp
-###############
+===============
 
 This repository contains supplementary code for
 
-  Inverse-Fourier Non-diffracting Beams for Optical Trapping,
-  Manuel Alberto Martınez-Ruiz, et al. [Journal TBD], [LINK TODO], 2020.
+>  Inverse-Fourier Non-diffracting Beams for Optical Trapping,
+>  Manuel Alberto Martınez-Ruiz, et al. [Journal TBD], [LINK TODO], 2020.
 
 If you find any of this code useful, please consider citing our paper.
 Some of this code will be included an upcoming release of the
@@ -15,7 +15,7 @@ Requirements
 ------------
 
   * Optical Tweezers Toolbox (version 1, should work with 1.5.6)
-  * Matlab
+  * Matlab (tested on R2018a)
 
 Usage
 -----
