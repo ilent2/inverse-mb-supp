@@ -22,10 +22,11 @@ Usage
 
 The repository consists of a series of example code files used
 to generate different parts of the figures in the paper.
-All the `example_` files should be self contained, simply ensure
-you have the optical tweezers toolbox installed and run the file.
+Start by looking through the `example_` files.
 
-Other files contains functions used by the `example_` files.
+Other files contains functions/classes used by the `example_` files.
+You will need the optical tweezers toolbox (version 1) to run most
+parts, make sure it is installed and added to Matlab's path.
 Most of these files will be merged with the optical tweezers toolbox
 at some later date.
 
