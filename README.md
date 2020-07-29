@@ -42,6 +42,9 @@ Files
   * `example_paraxial_mb.m` Example showing how paraxial Mathieu beams
     can be simulated.
 
+  * `MathieuExample.mlx` Matlab live-script example, produces a similar
+    result to `example_inverse_mb.m` but in a live-script.
+
   * `Mathieu.m` Functions used by `example_regular_mb_ottv1.m`, some
     are duplicated in `BscPmMathieu.m`.
 
